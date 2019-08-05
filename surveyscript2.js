@@ -94,7 +94,7 @@
     q13= "through casual, periodic emails (whenever I have a question)";
   }
   if (f2score ==1) {
-    q13= "through formal, structued emails (eg. check ins every month)";
+    q13= "through formal, structured emails (eg. check ins every month)";
   }
   if (f3score ==1) {
     q13= "with video chat/ in person meetup (periodically or one time)";
